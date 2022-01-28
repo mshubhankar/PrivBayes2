@@ -1,0 +1,15 @@
+C -1   90
+D NAN State-gov Self-emp-inc Without-pay Federal-gov Local-gov Private Self-emp-not-inc
+C 13492 1490400
+D NAN HS-grad Doctorate Masters Some-college Bachelors Assoc-acdm 12th Preschool 7th-8th 11th 10th 5th-6th 9th 1st-4th Assoc-voc Prof-school
+C -1   16
+D NAN Divorced Married-AF-spouse Married-civ-spouse Never-married Widowed Married-spouse-absent Separated
+D NAN Adm-clerical Machine-op-inspct Tech-support Craft-repair Other-service Farming-fishing Armed-Forces Prof-specialty Handlers-cleaners Exec-managerial Sales Protective-serv Transport-moving Priv-house-serv
+D NAN Wife Husband Other-relative Not-in-family Unmarried Own-child
+D NAN Asian-Pac-Islander Black White Amer-Indian-Eskimo Other
+D NAN Male Female
+C -1 99999  
+C -1 4356
+C -1   99
+D NAN Mexico Honduras El-Salvador Hungary Guatemala China Vietnam Laos Cambodia Italy Philippines Trinadad&Tobago Ecuador Hong Japan Ireland Thailand Poland Peru Taiwan South Columbia France Jamaica Canada Nicaragua Germany Scotland Yugoslavia Portugal Iran Outlying-US(Guam-USVI-etc) United-States Puerto-Rico Greece England India Holand-Netherlands Haiti Dominican-Republic Cuba 
+D NAN >50K <=50K

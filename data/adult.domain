@@ -1,0 +1,15 @@
+C 17   90
+D State-gov Self-emp-inc Without-pay Federal-gov Local-gov Private Self-emp-not-inc
+C 13492 1490400
+D HS-grad Doctorate Masters Some-college Bachelors Assoc-acdm 12th Preschool 7th-8th 11th 10th 5th-6th 9th 1st-4th Assoc-voc Prof-school
+C 1   16
+D Divorced Married-AF-spouse Married-civ-spouse Never-married Widowed Married-spouse-absent Separated
+D Adm-clerical Machine-op-inspct Tech-support Craft-repair Other-service Farming-fishing Armed-Forces Prof-specialty Handlers-cleaners Exec-managerial Sales Protective-serv Transport-moving Priv-house-serv
+D Wife Husband Other-relative Not-in-family Unmarried Own-child
+D Asian-Pac-Islander Black White Amer-Indian-Eskimo Other
+D Male Female
+C 0 99999  
+C 0 4356
+C 1   99
+D Mexico Honduras El-Salvador Hungary Guatemala China Vietnam Laos Cambodia Italy Philippines Trinadad&Tobago Ecuador Hong Japan Ireland Thailand Poland Peru Taiwan South Columbia France Jamaica Canada Nicaragua Germany Scotland Yugoslavia Portugal Iran Outlying-US(Guam-USVI-etc) United-States Puerto-Rico Greece England India Holand-Netherlands Haiti Dominican-Republic Cuba 
+D >50K <=50K
